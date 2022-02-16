@@ -10,3 +10,5 @@ Those features include:
   - A scuffed music bot
 
 Obviously the bot token, mongoDB server adress, and the discord IDs have been removed from the code
+
+(The name is a referring to the animal - the rooster and is an inside joke)
